@@ -1,6 +1,6 @@
 # Image Colorizer
 
-This project is based on Convolution Neural Networks. Black and White face images are input, and colored images are porduced as output.
+This project is based on Convolution Neural Networks. Black and White face images are input, and colored images are produced as output.The GUI is implemented using PySimpleGUI. 
 
 ## Results
 
